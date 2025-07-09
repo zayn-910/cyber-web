@@ -1,0 +1,65 @@
+body {
+    background-color: black;
+    font-family: Courier New;
+}
+
+h1 {
+    text-align: center;
+}
+
+.color { 
+    color: white;
+}
+
+nav {
+    background-color: ;
+    padding: 5px 0px 5px 0px;
+
+}
+
+nav ul li {
+    text-decoration-style: none;
+    display: inline-block;
+    padding-right: 5px;
+}
+
+button {
+    font-size: 15px;
+    font-weight: 550;
+    font-family: Courier New;
+    background-color: goldenrod;
+    padding: 5px;
+    transition-duration: 0.3s;
+}
+
+button:hover {
+    background-color: darkgoldenrod;
+}
+
+a {
+    font-family: Courier New;
+    transition-duration: 0.2s;
+    text-decoration: none;
+    color: darkslategray;
+    padding: 5px;
+    font-size: 15px;
+    font-weight: 550;
+
+}
+
+a:hover {
+    color: beige;
+}
+
+#about {
+    padding: 5px 25% 5px 20%;
+    justify-items: center;
+}
+
+main {
+    padding-left: 20px;
+}
+
+#attacks {
+    justify-items: center;
+}
